@@ -1,2 +1,2 @@
 ![header](header.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoboticObsession) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoboticObsession&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoboticObsession)
